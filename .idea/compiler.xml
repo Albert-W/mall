@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mail-web" />
+        <module name="mall-auth" />
+        <module name="mall-core" />
+        <module name="mall-dao" />
+        <module name="mall-dao-impl" />
+        <module name="mall-service" />
+        <module name="mall-service-impl" />
+        <module name="mall-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="mail" target="1.5" />
+      <module name="mail-auth" target="1.5" />
+      <module name="mail-core" target="1.5" />
+      <module name="mail-dao" target="1.5" />
+      <module name="mail-dao-impl" target="1.5" />
+      <module name="mail-service" target="1.5" />
+      <module name="mail-service-impl" target="1.5" />
+      <module name="mail-web" target="1.5" />
+      <module name="mall" target="1.5" />
+      <module name="mall-auth" target="1.5" />
+      <module name="mall-core" target="1.5" />
+      <module name="mall-dao" target="1.5" />
+      <module name="mall-dao-impl" target="1.5" />
+      <module name="mall-service" target="1.5" />
+      <module name="mall-service-impl" target="1.5" />
+      <module name="mall-web" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
